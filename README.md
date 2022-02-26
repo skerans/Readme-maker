@@ -15,11 +15,11 @@ Generate an automatic readme file using Node.js
 - [Questions](#questions)
 
 ## Installation
-git clone
-cd Readme-maker
-npm i inquirer 
-npm i fs 
-node index.js
+git clone </br>
+cd Readme-maker </br>
+npm i inquirer  </br>
+npm i fs </br>
+node index.js </br>
 
 ## Usage
 Anytime a readme file is needed, this can be used to make a quick and easy one.
